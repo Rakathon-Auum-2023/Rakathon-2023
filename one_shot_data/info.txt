@@ -1,0 +1,1 @@
+This is the directory for one-shot data for the facial attribute analyzer model
